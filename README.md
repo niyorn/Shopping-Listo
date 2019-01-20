@@ -1,5 +1,5 @@
 # To Do Application
-link to protoype: [prototype](https://3be57c26.ngrok.io)
+link to protoype: [prototype](https://afternoon-sea-42145.herokuapp.com/)
 
 ![To do application](readme-assets/core.gif)
 
