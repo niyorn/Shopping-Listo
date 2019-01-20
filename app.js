@@ -22,6 +22,6 @@ app
 // Tell express to use this router
 app.use('/', router)    
 
-app.listen(port, function () {
+app.listen(process.env.PORT || port, function () {
     console.log(`localhost:${port} - Lets go Baby!`);
 });
